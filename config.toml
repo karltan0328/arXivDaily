@@ -1,5 +1,5 @@
 site_title = "Karl的arXivDaily"
-limit_days = 30
+limit_days = 15
 cache_url = "https://arxiv.karltan.com/cache.json"
 
 # 40 items
